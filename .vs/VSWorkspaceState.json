@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DFA_Simplify",
+    "\\NFA确定化",
+    "\\pascal预处理",
+    "\\正规toNFA"
+  ],
+  "SelectedNode": "\\pascal预处理\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
